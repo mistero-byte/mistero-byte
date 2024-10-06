@@ -1,4 +1,4 @@
-# Hi there, I'm Mistero 👋
+# Hi there 👋
 
 Welcome to my GitHub! I'm a **self-taught programming enthusiast** with a passion for learning and exploring various programming languages. Although programming isn't my profession, it’s one of my favorite hobbies. Here's a bit more about me and my projects:
 
